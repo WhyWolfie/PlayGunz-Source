@@ -1,0 +1,29 @@
+﻿Compilación iniciada a las 08/12/2017 0:51:11.
+     1>Proyecto "C:\Users\javier\Desktop\Fuente\Locator\Locator.vcxproj" en el nodo 3 (Build destinos).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Runtime\Locator.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:res\Locator.manifest /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"Runtime\Locator.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Runtime\Locator.lib" /MACHINE:X86 /SAFESEH Release\Locator.res
+         Release\ExceptionAttacher.obj
+         Release\Locator.obj
+         Release\LocatorDoc.obj
+         Release\LocatorView.obj
+         Release\MainFrm.obj
+         Release\stdafx.obj
+         Release\MLocator.obj
+         Release\MLocatorConfig.obj
+         Release\MLocatorDBMgr.obj
+         Release\MLocatorStatistics.obj
+         Release\MLocatorUDP.obj
+         Release\MLocatorView.obj
+         Release\MLogManager.obj
+         Release\MServerStatus.obj
+         C:\Users\javier\Desktop\Fuente\cml\Lib\cml.lib
+         C:\Users\javier\Desktop\Fuente\MCountryFilter\Lib\MCountryFilter.lib
+         C:\Users\javier\Desktop\Fuente\MDatabase\Lib\MDatabase.lib
+         C:\Users\javier\Desktop\Fuente\SafeUDP\lib\SafeUDP.lib
+         C:\Users\javier\Desktop\Fuente\CSCommon\Lib\CSCommon.lib
+         Locator.vcxproj -> C:\Users\javier\Desktop\Fuente\Locator\Runtime\Locator.exe
+     1>Compilación del proyecto terminada "C:\Users\javier\Desktop\Fuente\Locator\Locator.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:11.85

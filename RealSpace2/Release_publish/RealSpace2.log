@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 04/12/2017 20:26:13.
+     1>Proyecto "C:\Users\javier\Desktop\Fuente\RealSpace2\RealSpace2.vcxproj" en el nodo 3 (Build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1354,5): warning MSB8012: TargetPath(C:\Users\javier\Desktop\Fuente\RealSpace2\Release_publish\RealSpace2.lib) does not match the Library's OutputFile property value (C:\Users\javier\Desktop\Fuente\RealSpace2\Lib\RealSpace2.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>Lib:
+         RealSpace2.vcxproj -> C:\Users\javier\Desktop\Fuente\RealSpace2\Release_publish\RealSpace2.lib
+     1>Compilación del proyecto terminada "C:\Users\javier\Desktop\Fuente\RealSpace2\RealSpace2.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.18

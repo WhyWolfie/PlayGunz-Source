@@ -1,0 +1,85 @@
+﻿Compilación iniciada a las 09/12/2017 16:30:13.
+     1>Proyecto "C:\Users\javier\Desktop\Fuente\MatchServer\MatchServer.vcxproj" en el nodo 3 (Build destinos).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Runtime\MatchServer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:Lib /LIBPATH:../../sdk/crypto/lib ../CML/Lib/zlib.lib ./comsuppw.lib /NODEFAULTLIB:libci.lib /NODEFAULTLIB:libc.lib /NODEFAULTLIB:comsuppw.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:res\MatchServer.manifest /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"Runtime\MatchServer.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Runtime\MatchServer.lib" /MACHINE:X86 /SAFESEH:NO KOR_Release_publish\MatchServer.res
+         KOR_Release_publish\ChildFrm.obj
+         KOR_Release_publish\CommandLogView.obj
+         KOR_Release_publish\ExceptionAttacher.obj
+         KOR_Release_publish\MainFrm.obj
+         KOR_Release_publish\MatchServer.obj
+         KOR_Release_publish\MatchServerDoc.obj
+         KOR_Release_publish\MatchServerView.obj
+         KOR_Release_publish\OutputView.obj
+         KOR_Release_publish\stdafx.obj
+         KOR_Release_publish\TrayIcon.obj
+         KOR_Release_publish\MBMatchServer.obj
+         KOR_Release_publish\MBMatchServerConfigReloader.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_BuyBountyItem.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_Character.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_GambleItem.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_GambleQuestItem.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_GameOnLogin.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_NetmarbleLogin.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_NHNLogin.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_SellItem.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_TakeoffItem.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_UpdateCharLevel.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_UpdateCharPlayInfo.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_UpdateEquipItem.obj
+         KOR_Release_publish\MBMatchAsyncJob_GetCpuInfo.obj
+         KOR_Release_publish\OnProcessAsyncJob.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_BringAccountItem.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_BringAccountItemStackable.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_BringBackAccountItem.obj
+         KOR_Release_publish\MBMatchAsyncDBJob_BringBackAccountItemStackable.obj
+         KOR_Release_publish\MBMatchServer_AntiHack.obj
+         KOR_Release_publish\MBMatchServer_CountryFilter.obj
+         KOR_Release_publish\MBMatchServer_Item.obj
+         KOR_Release_publish\MBMatchServer_Login.obj
+         KOR_Release_publish\MBMatchServer_OnCommand.obj
+         KOR_Release_publish\MBMatchServer_ServerKeeper.obj
+         KOR_Release_publish\MBMatchServer_Stage.obj
+         KOR_Release_publish\MMatchServer_Schedule.obj
+         KOR_Release_publish\MBMatchTest.obj
+         KOR_Release_publish\MBMatchTest_Gameguard.obj
+         KOR_Release_publish\MBMatchTest_Killtracker.obj
+         KOR_Release_publish\TestCRC32Server.obj
+         KOR_Release_publish\TestCRCNetModule.obj
+         KOR_Release_publish\TestCRCPlayer.obj
+         KOR_Release_publish\TestCRCStage.obj
+         KOR_Release_publish\TestResourceCRC32Cache_ServerClient.obj
+         KOR_Release_publish\MBMatchNetmarbleBilling.obj
+         KOR_Release_publish\MBMatchAuth.obj
+         KOR_Release_publish\MBMatchXTrapCC.obj
+         KOR_Release_publish\XTrap4Server.obj
+         KOR_Release_publish\MBMatchNHNAuth.obj
+         KOR_Release_publish\MBMatchNHNRTA.obj
+         KOR_Release_publish\MBMatchGameGuard.obj
+         KOR_Release_publish\MBMatchSecurity.obj
+         KOR_Release_publish\MBMatchKillTracker.obj
+         KOR_Release_publish\MBMatchMonitor.obj
+         KOR_Release_publish\MBMatchMonitorCommunicator.obj
+         KOR_Release_publish\MBMatchMonitorXml.obj
+         KOR_Release_publish\MBMatchSystemInfo.obj
+         KOR_Release_publish\MBMatchGameOnAuth.obj
+         Netmarble\CPSSOLib.lib
+         HShield\AntiCpSvr.lib
+         nhn\HanAuthForSvr.lib
+         nhn\HanAuthForSvrD.lib
+         nhn\HanRTA.lib
+         nhn\HanRTAD.lib
+         GameGuard\ggsrvlib25_MT.lib
+         C:\Users\javier\Desktop\Fuente\cml\Lib\cml.lib
+         C:\Users\javier\Desktop\Fuente\MCountryFilter\Lib\MCountryFilter.lib
+         C:\Users\javier\Desktop\Fuente\MDatabase\Lib\MDatabase.lib
+         C:\Users\javier\Desktop\Fuente\SafeUDP\lib\SafeUDP.lib
+         C:\Users\javier\Desktop\Fuente\StringLiteral\Release\StringLiteral.lib
+         C:\Users\javier\Desktop\Fuente\CSCommon\Lib\CSCommon.lib
+         Generando código
+         Generación de código finalizada
+         MatchServer.vcxproj -> C:\Users\javier\Desktop\Fuente\MatchServer\Runtime\MatchServer.exe
+     1>Compilación del proyecto terminada "C:\Users\javier\Desktop\Fuente\MatchServer\MatchServer.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:01:19.03

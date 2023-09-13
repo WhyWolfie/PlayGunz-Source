@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 08/12/2017 0:54:33.
+     1>Proyecto "C:\Users\javier\Desktop\Fuente\SafeUDP\SafeUDP.vcxproj" en el nodo 3 (Build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1354,5): warning MSB8012: TargetPath(C:\Users\javier\Desktop\Fuente\SafeUDP\.\Release\SafeUDP.lib) does not match the Library's OutputFile property value (C:\Users\javier\Desktop\Fuente\SafeUDP\lib\SafeUDP.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>Lib:
+         SafeUDP.vcxproj -> C:\Users\javier\Desktop\Fuente\SafeUDP\.\Release\SafeUDP.lib
+     1>Compilación del proyecto terminada "C:\Users\javier\Desktop\Fuente\SafeUDP\SafeUDP.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.71
